@@ -1,0 +1,110 @@
+body{
+  margin:0;
+  text-align: center;
+  color: #40514E;
+}
+.skills p{
+  margin: 0;
+  font-weight: bolder;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+  font-weight: bolder;
+  font-size: 150%;
+}
+p{
+  line-height: 2;
+}
+h1{
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 500%;
+  color: #66BFBF;
+}
+h2{
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3{
+  color: #11999E;
+}
+a{
+  color: #11999E;
+}
+.top-div{
+  background-color: #A2D5AB;
+  position: relative;
+  padding-top: 80px;
+}
+.mid-div{
+  margin: 100px 0;
+}
+.bottom-div{
+  margin-top: 50px;
+  line-height: 4;
+  background-color: #A2D5AB;
+  padding-top: 30px;
+  margin-bottom: 0;
+}
+.bottom-cloud{
+  position: absolute;
+  bottom: 50%;
+  left: 25%;
+}
+.top-cloud{
+  position:absolute;
+  right: 27%;
+  top:5%;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 4%;
+  color: grey;
+  margin: 100px auto;
+}
+.btn{
+  display: inline-block;
+  padding: 20px;
+  border: 1px solid black;
+  border-style: hidden;
+  border-radius: 35px;
+  margin:5px;
+  background-color: #FF008E;
+  text-shadow: orange;
+  color: black;
+}
+.btn:hover{
+  background-color: black;
+  color: #FF008E;
+}
+.skill-row{
+  width: 50%;
+  margin: auto;
+  margin: 100px auto 100px;
+  text-align: left;
+  line-height: 2;
+}
+.css-image{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.cricket-ball{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.footer-link{
+  padding-left: 20px;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color: white;
+}
+.bottom-div p{
+  margin: 0;
+}
